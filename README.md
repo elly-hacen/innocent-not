@@ -23,7 +23,7 @@ This repository provides a simple and efficient way to encrypt and decrypt messa
   
 3. Install the required dependencies:
    ```bash
-   pip install cryptography
+   pip install -r requirements.txt
    ```
 
 ## Usage
