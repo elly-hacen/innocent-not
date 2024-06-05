@@ -45,7 +45,6 @@ Follow the prompts to choose and perform encryption or decryption operations:
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or new features.
-```                                                                                
   
   
   
