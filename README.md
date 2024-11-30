@@ -1,5 +1,4 @@
-# Innocent                    
-  
+# Encryptr                    
 
 This repository provides a simple and efficient way to encrypt and decrypt messages, files, and entire directories using the Fernet symmetric encryption from the cryptography library. The system includes a user-friendly menu-driven interface to perform various encryption and decryption operations.
 
@@ -14,7 +13,7 @@ This repository provides a simple and efficient way to encrypt and decrypt messa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/innocent.git
+   git clone https://github.com/elly-hacen/encryptr.git
    ```                                        
 2. Change the directory
    ```bash
